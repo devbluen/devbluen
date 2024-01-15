@@ -15,8 +15,10 @@
 
 <br>
 
-![GitHub Stats - Dark Theme](https://github-readme-stats.vercel.app/api?username=devbluen&show_icons=true&theme=dark)
 [![Top Languages - Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=devbluen&layout=compact&theme=dark)](https://github.com/devbluen/github-readme-stats)
+
+![GitHub Stats - Dark Theme](https://github-readme-stats.vercel.app/api?username=devbluen&show_icons=true&theme=dark)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igdiogo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/871095722844495893)
