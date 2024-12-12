@@ -1,5 +1,6 @@
 ### 👋🌍 Hello, I'm Diogo.
 
+Ceo/Developer from @central-studios.
 Developer from @Eagle-Vision-Group.
 
 [![Instagram Badge](https://img.shields.io/badge/-@igdiogo-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/igdiogo)](https://instagram.com/igdiogo) 
