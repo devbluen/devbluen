@@ -2,9 +2,9 @@
 
 CEO and Developer from @central-studios.
 
-[![Instagram Badge](https://img.shields.io/badge/-@igdiogo-00875f?style=grey&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/igdiogo)](https://instagram.com/igdiogo) 
-[![Discord Badge](https://img.shields.io/badge/-.blueN-00875f?style=flat-square&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/871095722844495893)](https://discord.com/users/871095722844495893) 
-[![E-mail Badge](https://img.shields.io/badge/-diogodev@icloud.com-00875f?style=flat-square&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:diogodev@icloud.com)](mailto:diogodev@icloud.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@igdiogo-00875f?style=for-the-badge&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/igdiogo)](https://instagram.com/igdiogo) 
+[![Discord Badge](https://img.shields.io/badge/-.blueN-00875f?style=for-the-badge&labelColor=00875f&logo=discord&logoColor=white&link=https://discord.com/users/871095722844495893)](https://discord.com/users/871095722844495893) 
+[![E-mail Badge](https://img.shields.io/badge/-diogodev@icloud.com-00875f?style=for-the-badge&labelColor=00875f&logo=gmail&logoColor=white&link=mailto:diogodev@icloud.com)](mailto:diogodev@icloud.com) 
 
 I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
 
