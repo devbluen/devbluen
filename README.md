@@ -15,6 +15,7 @@ I have knowledge of some programming languages ​​that I have listed below.
   <img align="center" alt="blueN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
