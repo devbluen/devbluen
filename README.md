@@ -8,7 +8,7 @@ CEO and Developer from @central-studios.
 
 I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
 
-I have knowledge of some programming languages that I will list below. I am totally back-end but I can try to do some front-end work even though it is not my main area of expertise.
+I have knowledge of some programming languages ​​that I have listed below.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="blueN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -20,5 +20,7 @@ I have knowledge of some programming languages that I will list below. I am tota
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="blueN" height="30" width="40" src="https://i.imgur.com/VJLHjfM.png">
+  <img align="center" alt="blueN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
 </div>
