@@ -3,9 +3,9 @@ I currently work creating anti-cheat and developing servers for samp.
 I am the founder and active developer of <b>Central Studios</b> and <b>Reduto Online</b>.
 
 ### 🍪 Recent projects I founded or participated in
-- Central Studios: https://centralstudios.net/
+- Central Studios: https://discord.gg/rhuyfKW8Rr
 - Reduto Online: https://reduto.online/
-- BirdEYE (Anti Cheat): https://centralstudios.net/birdeye/
+- BirdEYE (Anti Cheat): https://discord.gg/hFWe8JFvbz
 
 ### 💻 I have the following knowledge: 
 - Pawn, C++, C#, Lua, Js, Php, React, MySQL and Git.
