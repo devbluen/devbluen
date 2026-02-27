@@ -1,17 +1,15 @@
 ### 👋🌍 Hello, I'm Diogo.
 I currently work creating anti-cheat and developing servers for samp.
-I am the founder and active developer of <b>Central Studios</b> and <b>Reduto Online</b>.
+I am the founder and active developer of <b>Reduto Online</b>.
 
 ### 🍪 Recent projects I founded or participated in
-- Central Studios: https://discord.gg/rhuyfKW8Rr
 - Reduto Online: https://reduto.online/
-- BirdEYE (Anti Cheat): https://discord.gg/hFWe8JFvbz
 
 ### 💻 I have the following knowledge: 
 - Pawn, C++, C#, Lua, Js, Php, React, MySQL and Git.
 
 ### 🤍 Place in the heart
-- Founder and Developer of Rippzy City Project
+- Founder and Developer of Rippzy City, Central Studios and BirdEYE (Anti Cheat)
 - Former developer of Brasil Play Shox 2.0
 
 ### Contact me ⤵️
