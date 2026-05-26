@@ -1,18 +1,23 @@
-### 👋🌍 Hello, I'm Diogo.
-I currently work creating anti-cheat and developing servers for samp.
-I am the founder and active developer of <b>Reduto Online</b>.
+<div align="center">
 
-### 🍪 Recent projects I founded or participated in
-- Reduto Online: https://reduto.online/
+# Diogo.
 
-### 💻 I have the following knowledge: 
-- Pawn, C++, C#, Lua, Js, Php, React, MySQL and Git.
+Lead Developer at [Reduto Online](https://reduto.online/) · SA-MP & full-stack
 
-### 🤍 Place in the heart
-- Founder and Developer of Rippzy City, Central Studios and BirdEYE (Anti Cheat)
-- Former developer of Brasil Play Shox 2.0
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&color=181818)](https://instagram.com/igdiogo)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&color=181818)](https://discord.com/users/871095722844495893)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=181818)](mailto:diogodev@icloud.com)
 
-### Contact me ⤵️
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/igdiogo) 
-[![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/871095722844495893) 
-[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogodev@icloud.com)
+</div>
+
+I've been building servers and applications for the SA-MP ecosystem for years. Founded **Rippzy City**, **BirdEYE** and **Central Studios**, contributed to **Brasil Play Shox 2.0**, and today I lead development at **Reduto Online**.
+
+`Pawn` `C++` `C#` `Lua` `JavaScript` `PHP` `React` `MySQL` `Git`
+
+<br>
+<br>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devbluen&theme=dark&hide_border=true&border_radius=60)](https://git.io/streak-stats)
+
+</div>
