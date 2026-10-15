@@ -2,7 +2,8 @@
 
 # Diogo.
 
-Lead Developer at [Reduto Online](https://reduto.online/) · SA-MP & full-stack
+Lead Developer at [Reduto Online](https://reduto.online/) · SA-MP & full-stack<br>
+CEO & Lead Developer at [Belton Guard - Anti Cheat](https://ac.beltongroup.net) · SA-MP & full-stack
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&color=181818)](https://instagram.com/igdiogo)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&color=181818)](https://discord.com/users/871095722844495893)
@@ -10,7 +11,7 @@ Lead Developer at [Reduto Online](https://reduto.online/) · SA-MP & full-stack
 
 </div>
 
-I've been building servers and applications for the SA-MP ecosystem for years. Founded **Rippzy City**, **BirdEYE** and **Central Studios**, contributed to **Brasil Play Shox 2.0**, and today I lead development at **Reduto Online**.
+I've been building servers and applications for the SA-MP ecosystem for years. Founded **Rippzy City**, **BirdEYE**, **Belton Guard** and **Central Studios**, contributed to **Brasil Play Shox 2.0**, and today I lead development at **Reduto Online**.
 
 `Pawn` `C++` `C#` `Lua` `JavaScript` `PHP` `React` `MySQL` `Git`
 
